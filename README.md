@@ -4,7 +4,7 @@
 To simulate and analyze Speed Control of DC motor using Phase controlled rectifier using MATLAB/Simulink.
 
 ## APPARATUS REQUIRED
-	MATLAB
+MATLAB
 
 ## PROCEDURE
 	1.	Open MATLAB and click on the icon for SIMULINK as shown below
@@ -27,13 +27,16 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 8.	Analyze and record your inference.
 
 
-Observation
-
-<img width="777" height="275" alt="image" src="https://github.com/user-attachments/assets/3490d80c-a0d4-4f88-b5b1-6d238f41aa41" />
-
+## Observation
+<img width="1599" height="899" alt="4b6b684c-353c-4f3e-9ebb-b9b8f32ec578" src="https://github.com/user-attachments/assets/03f0b70c-e65c-4233-9e0e-cb8a584e9530" />
 
 
-RESULT.
+## GRAPH
+<img width="881" height="532" alt="8283f7c5-8071-4a4e-9c11-bd42afefffc7" src="https://github.com/user-attachments/assets/986b0cb0-7d40-410e-b0b4-cf73cd43eb96" />
+
+
+## RESULT
+
 The Speed Control of DC motor using Phase controlled rectifier is simulated and analyzed successfully.
 
 
